@@ -22,17 +22,7 @@ This repository contains the source code for my personal portfolio website, desi
 - **FontAwesome** - For crisp, scalable vector icons.
 - **Google Fonts** - *Montserrat* & *Nunito* for modern typography.
 
-## 👩‍💻 About Me
 
-### 💼 Experience
-- **Dosen IT**
-- **Lead Developer**
-- **Senior Web Developer**
-
-### 🎓 Education
-- **S3** - Asia Pacific University
-- **S2** - Universitas Indonesia
-- **S1** - Universitas Pelita Harapan
 
 ## 📫 Let's Connect!
 Have a project in mind, need a developer, or just want to discuss some cool ideas? I'm always open to new opportunities!
